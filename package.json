@@ -1,0 +1,14 @@
+{
+  "name": "is-thai-characters",
+  "version": "1.0.0",
+  "description": "Thai characters validator",
+  "main": "index.js",
+  "repository": "git@github.com:ipiranhaa/is-thai-characters.git",
+  "keywords": [
+    "thai",
+    "thai validator",
+    "isThaiCharacters"
+  ],
+  "author": "ipiranhaa <tanatezp@gmail.com>",
+  "license": "MIT"
+}
