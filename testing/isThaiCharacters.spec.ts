@@ -25,26 +25,4 @@ describe('isThaiCharacters', () => {
 
     results.forEach((result) => expect(result).toBe(false))
   })
-
-  // it('should return true', () => {
-  //   const result0 = isThaiCharacters(rightCases[0])
-  //   // const result1 = isThaiCharacters(rightCases[1])
-  //   const result2 = isThaiCharacters(rightCases[2])
-
-  //   expect(result0).toBe(true)
-  //   // expect(result1).toBe(true)
-  //   expect(result2).toBe(true)
-  // })
-
-  // it('should return false', () => {
-  //   const result0 = isThaiCharacters(wrongCases[0])
-  //   const result1 = isThaiCharacters(wrongCases[1])
-  //   const result2 = isThaiCharacters(wrongCases[2])
-  //   const result3 = isThaiCharacters(wrongCases[3])
-
-  //   expect(result0).toBe(false)
-  //   expect(result1).toBe(false)
-  //   expect(result2).toBe(false)
-  //   expect(result3).toBe(false)
-  // })
 })
