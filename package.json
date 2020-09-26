@@ -1,6 +1,6 @@
 {
   "name": "is-thai-characters",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Thai characters validator",
   "main": "index.ts",
   "repository": "git@github.com:ipiranhaa/is-thai-characters.git",
